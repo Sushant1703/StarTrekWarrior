@@ -76,6 +76,7 @@ python main.py
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/f51452ad-198a-4b09-bbea-a966b4140256)
 ![image](https://github.com/user-attachments/assets/492f96d3-64b1-4b15-85a5-42e9c36143e1)
+![image](https://github.com/user-attachments/assets/d3145226-115c-47a9-8ef6-645b82fe3c29)
 
 
 
