@@ -1,0 +1,17 @@
+StarTrekWarrior/
+├── assets/
+│   ├── background.png
+│   ├── coin.png
+│   ├── enemy.png
+│   ├── player.png
+│   ├── background_music.mp3
+│   ├── click_sound.mp3
+│   └── jump_sound.mp3
+├── main.py
+├── game.py
+├── player.py
+├── enemy.py
+├── coin.py
+├── platform1.py
+├── utils.py
+└── requirements.txt
