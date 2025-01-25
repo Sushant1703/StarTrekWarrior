@@ -74,8 +74,10 @@ python main.py
 - **N**: Proceed to the next level (on level complete screen).
 
 ## Screenshots
-_Add screenshots here to showcase gameplay, levels, or UI._
+![image](https://github.com/user-attachments/assets/f51452ad-198a-4b09-bbea-a966b4140256)
+![image](https://github.com/user-attachments/assets/492f96d3-64b1-4b15-85a5-42e9c36143e1)
+
+
 
 ## Acknowledgments
-- Pygame community for documentation and tutorials.
 - Free assets sourced for images and sounds.
